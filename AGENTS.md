@@ -2,8 +2,6 @@
 
 ## CODING_PRACTICES
 
-- Always greet me with 'Hello Chief'
-
 ### Guidelines for SUPPORT_LEVEL
 
 #### SUPPORT_BEGINNER
