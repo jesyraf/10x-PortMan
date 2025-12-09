@@ -1,0 +1,41 @@
+# --- Python / Streamlit ---
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.log
+*.tmp
+
+# Streamlit cache and logs
+.streamlit/
+streamlit.log
+
+# Environment variables (do not commit secrets)
+.env
+.env.*
+
+# SQLite, local data files
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# --- VS Code ---
+.vscode/
+
+# --- OS-specific files ---
+# macOS
+.DS_Store
+
+# Linux
+*~
