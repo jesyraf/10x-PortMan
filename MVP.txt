@@ -1,0 +1,20 @@
+# Application - PortMan (Portfolio Manager) (MVP)
+
+## Main problem
+I manage and track my investment portfolio in Excel and calculate everything manually or using
+formulas. I would like to automate and simplify the entire process.
+
+## Minimum set of features
+-Adding and removing items.
+-Changing names and amounts of items.
+-Option to indicate the type of item, e.g., stocks, ETFs, bonds.
+-Adding sold/unsold options for items.
+-Calculating profits and losses for specific items and the entire portfolio (with an option to include or exclude unsold items).
+
+## What is NOT included in the MVP
+-Use of AI via API or in any other way. 
+-Adding additional features beyond the previously specified minimum.
+
+## Success criteria
+I have an application in which, when I purchase shares, I can add them to my portfolio, enter
+the amount I paid, and when I sell them, add the sale amount. The differences from such transactions will be calculated.
